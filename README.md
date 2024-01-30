@@ -19,3 +19,5 @@
 9. List all the files in directory except .txt and .pdf
 
 10. Delete files of size more than 100mb in a folder which are older than 90 days
+
+11. Reverse the words in a sentence
