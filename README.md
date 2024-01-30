@@ -1,4 +1,4 @@
-# Bash-Projects
+# Bash Questions
 
 1. Write a script to capture current logged in user data in a file . The script must be triggered from Crontab to create file every minute.
 
@@ -15,3 +15,7 @@
 7. Delete blank lines in a file
 
 8. Print number of times each word appears in a file
+
+9. List all the files in directory except .txt and .pdf
+
+10. Delete files of size more than 100mb in a folder which are older than 90 days
