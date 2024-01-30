@@ -1,0 +1,1 @@
+curl https://abc.log | grep ERROR
