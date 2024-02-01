@@ -21,3 +21,5 @@
 10. Delete files of size more than 100mb in a folder which are older than 90 days
 
 11. Reverse the words in a sentence
+
+12. Rename all .jpg files to .jpeg
