@@ -23,3 +23,5 @@
 11. Reverse the words in a sentence
 
 12. Rename all .jpg files to .jpeg
+
+13. Print contents of a file starting from the nth line.
