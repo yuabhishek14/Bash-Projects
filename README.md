@@ -25,3 +25,5 @@
 12. Rename all .jpg files to .jpeg
 
 13. Print contents of a file starting from the nth line.
+
+14. Write a command to calculate the total size of all pdf files in the directory.
